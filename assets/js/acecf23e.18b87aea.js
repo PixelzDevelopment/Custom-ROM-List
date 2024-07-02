@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcustom_rom_list=self.webpackChunkcustom_rom_list||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/Custom-ROM-List/blog","blogTitle":"Blog"}')}}]);
