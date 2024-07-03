@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Custom ROM List',
+  tagline: 'On this website, you can see almost all the lists of ROM organizations and tons of details about ROM modifications.',
+  favicon: 'img/logo.svg',
 
   // Set the production url of your site here
   url: 'https://pixelzdevelopment.github.io/',
@@ -47,13 +47,6 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -67,24 +60,16 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Custom ROM List',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Custom ROM List Logo',
+          src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Organizations'},
+          {href: '/contributions', label: 'Contributions', position: 'right'},
+          {href: '/about', label: 'About Us', position: 'right'},
+          {href: 'https://github.com/itz-rj-here/Custom-ROM-List', label: 'GitHub', position: 'right'},
         ],
       },
       footer: {
@@ -94,8 +79,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Organizations',
+                to: '/docs/organizations',
               },
             ],
           },
@@ -103,16 +88,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/6gjTNXZ4z4',
               },
             ],
           },
@@ -120,17 +97,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/itz-rj-here/Custom-ROM-List',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a style="color: inherit" href="https://github.com/PixelzDevelopment" target="_blank">Pixel Development</a>. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
