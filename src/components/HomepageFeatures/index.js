@@ -5,31 +5,28 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/tap.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Effortlessly navigate your way through our user-friendly website, where simplicity meets seamless functionality.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Support',
+    Svg: require('@site/static/img/help.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Wikis empower communities by offering a collaborative, ever-evolving platform for shared knowledge and support.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Latest Updates',
+    Svg: require('@site/static/img/updated.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This section highlights the most recent changes, significant additions, and updates across various topics, ensuring you stay informed about the latest trends, innovations, and breakthroughs.
       </>
     ),
   },
