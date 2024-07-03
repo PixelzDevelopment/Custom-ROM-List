@@ -9,16 +9,16 @@
 <h3 align="center">Custom ROM List</h3>
 <p align="center">On this website, you can see almost all the lists of ROM organizations and tons of details about ROM modifications.<br/>
 <br/>
-<a href="https://itz-rj-here.github.io/Custom-ROM-List/"><strong>Explore the Website »</strong></a><br/>
+<a href="https://pixelzdevelopment.github.io/Custom-ROM-List/"><strong>Explore the Website »</strong></a><br/>
 </p>
 </div>
 
-![GitHub branch check runs](https://img.shields.io/github/check-runs/itz-rj-here/Custom-ROM-List/main)
-![GitHub package.json prod dependency version (branch)](https://img.shields.io/github/package-json/dependency-version/itz-rj-here/Custom-ROM-List/%40docusaurus%2Fcore/main)
-![GitHub License](https://img.shields.io/github/license/itz-rj-here/Custom-ROM-List)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/itz-rj-here/Custom-ROM-List/main)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/itz-rj-here/Custom-ROM-List)
-![GitHub Repo stars](https://img.shields.io/github/stars/itz-rj-here/Custom-ROM-List)
+![GitHub branch check runs](https://img.shields.io/github/check-runs/PixelzDevelopment/Custom-ROM-List/main)
+![GitHub package.json prod dependency version (branch)](https://img.shields.io/github/package-json/dependency-version/PixelzDevelopment/Custom-ROM-List/%40docusaurus%2Fcore/main)
+![GitHub License](https://img.shields.io/github/license/PixelzDevelopment/Custom-ROM-List)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/PixelzDevelopment/Custom-ROM-List/main)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/PixelzDevelopment/Custom-ROM-List)
+![GitHub Repo stars](https://img.shields.io/github/stars/PixelzDevelopment/Custom-ROM-List)
 
 # Custom ROM List
 
@@ -45,7 +45,7 @@ We're a passionate team that began our journey developing innovative plugins for
 
 ### Getting Started
 
-1. **Visit the Website**: Head over to [Custom ROM List](https://itz-rj-here.github.io/Custom-ROM-List/) and start exploring the world of custom ROMs.
+1. **Visit the Website**: Head over to [Custom ROM List](https://pixelzdevelopment.github.io/Custom-ROM-List/) and start exploring the world of custom ROMs.
 2. **Search for ROMs**: Use the search feature to find ROMs compatible with your device.
 3. **Read and Learn**: Browse through the detailed information and tutorials available.
 4. **Join the Community**: Engage with other Android enthusiasts and developers through our forums and discussion boards.
