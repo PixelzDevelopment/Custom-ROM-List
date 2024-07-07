@@ -4,10 +4,6 @@ slug: /organizations/pixelos
 sidebar_position: 1
 ---
 
-## **PixelOS Official Website**
-
----
-
 ### **1. Overview**
 **PixelOS** – The Next Generation Custom ROM for Android
 
