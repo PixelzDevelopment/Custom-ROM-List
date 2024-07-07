@@ -93,7 +93,7 @@ Here are some things you can do to mitigate these risks:
 
 Use the Custom ROM at your own risk. We can't help you with the Custom ROM issues.
 
-Contact the main support of the organizations in case you need it.
+Contact the original support of the organizations in case you need it.
 
 :::
 
