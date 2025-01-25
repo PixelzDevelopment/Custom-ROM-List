@@ -105,7 +105,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a style="color: inherit" href="https://github.com/PixelzDevelopment" target="_blank">Pixel Development</a>. All rights reserved.`,
+        copyright: `Copyright © 2024 - ${new Date().getFullYear()} <a style="color: inherit" href="https://github.com/PixelzDevelopment" target="_blank">Pixel Development</a>. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
